@@ -10,6 +10,10 @@
  <a href="https://github.com/Crypto400600?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Crypto400600&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Crypto400600's github-readme-streak-stats"/></a>
 
 </div>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Crypto400600&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/Crypto400600/github-profile-trophy)
+
 <!--
 <div>
 <a class='Most-used-languages' href='https://github.com/ether-genius'><img width="45%" id='github-status' src='https://github-readme-stats.vercel.app/api/top-langs/?username=ether-genius&layout=compact' />
