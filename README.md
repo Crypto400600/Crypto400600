@@ -11,9 +11,9 @@
 
 </div>
 
-
+<div align=canter>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Crypto400600&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/Crypto400600/github-profile-trophy)
-
+</div>
 <!--
 <div>
 <a class='Most-used-languages' href='https://github.com/ether-genius'><img width="45%" id='github-status' src='https://github-readme-stats.vercel.app/api/top-langs/?username=ether-genius&layout=compact' />
