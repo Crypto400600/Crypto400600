@@ -11,7 +11,7 @@
 
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Crypto400600&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/Crypto400600/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Crypto400600&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/Crypto400600/github-profile-trophy&layout=compact)
 
 <!--
 <div>
