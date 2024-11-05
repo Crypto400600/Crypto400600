@@ -12,6 +12,7 @@
 </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Crypto400600&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/Crypto400600/github-profile-trophy)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Crypto400600&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!--
 <div>
 <a class='Most-used-languages' href='https://github.com/ether-genius'><img width="45%" id='github-status' src='https://github-readme-stats.vercel.app/api/top-langs/?username=ether-genius&layout=compact' />
